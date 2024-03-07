@@ -37,9 +37,11 @@ Analyze the performance of the model and identify areas for improvement.
 Develop a user-friendly interface for document upload.
 Implement the metadata extraction pipeline using the trained model.
 Ensure scalability, security, and error handling in the deployment environment.
-Additional Considerations:
+
+5.Additional Considerations:
 Experiment with different NLP and OCR libraries to find the best-performing tools for your task.
 Consider techniques like data augmentation to improve model generalization.
 Monitor the performance of the deployed system and periodically retrain the model with new data to adapt to changing document formats and patterns.
 By following these steps, you can build an AI/ML system for metadata extraction from documents that meets the specified requirements without relying on a rule-based approach.
 
+This assignment I have done to my level best so I just expirimented each model approach to get accurately predicting model.
